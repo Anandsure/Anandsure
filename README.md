@@ -6,7 +6,7 @@ Hey your friendly neighbour here!🧞‍♂️ except that i am not your neighbo
 Phew! thats a mouthful 🥱 <br>
 </p>
 <p style="font-weight:bold;" align="center">
-I develop full stack applications on both iOS 📱 and Web platforms 💻. I enjoy Debating, MUNning and participating in active Conventions.
+I develop full stack applications on both iOS 📱 and Web platforms 💻 and i'm also maybe really good with algorithms. I enjoy Debating, MUNning and participating in active Conventions.
 If you are a fellow developer 👩🏻‍💻🧑🏻‍💻, you are more than welcome to contribute, like , watch my Github or If you just want to get in touch with me, Just ping me on other social media handles.
   </p>
 
